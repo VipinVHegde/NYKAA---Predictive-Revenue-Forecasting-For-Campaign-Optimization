@@ -1,0 +1,2 @@
+# NYKAA---Predictive-Revenue-Forecasting-For-Campaign-Optimization
+Analyzed 55,555 marketing campaigns to identify ROI performance gaps, engineering CTR, Lead Rate &amp; Conversion Rate KPIs across 5 campaign types &amp; 6 channels. Identified 23.8% negative-ROI campaigns &amp; developed 3ML classification models, with Decision Tree achieving 0.965 AUC-ROC &amp; Acquisition Cost emerging as the key predictor for campaign success.
